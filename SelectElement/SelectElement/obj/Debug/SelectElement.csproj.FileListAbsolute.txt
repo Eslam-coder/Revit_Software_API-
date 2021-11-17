@@ -1,0 +1,7 @@
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\bin\Debug\SelectElement.dll
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\bin\Debug\SelectElement.pdb
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\obj\Debug\SelectElement.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\obj\Debug\SelectElement.dll
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\obj\Debug\SelectElement.pdb
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\bin\Debug\SelectElement.AddIn
+C:\Users\Eslam\Desktop\SelectElementRevitAPI\SelectElement\SelectElement\obj\Debug\SelectElement.csprojAssemblyReference.cache

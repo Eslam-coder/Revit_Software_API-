@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Name>SelectElement</Name>
+
+		<FullClassName>SelectElement.SelectElement</FullClassName>
+
+		<Text>SelectElement</Text>
+
+		<Description>Select Element</Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>SelectElement.dll</Assembly>
+
+		<AddInId>
+			7DDCE1B4-7A54-42C5-8DC1-93935D8F2CEA
+		</AddInId>
+
+		<VendorId>EslamHosam</VendorId>
+
+		<VendorDescription>Eslam Hosam, Structural BIM Engineer, Revit Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
